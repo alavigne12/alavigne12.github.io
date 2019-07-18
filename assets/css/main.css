@@ -575,7 +575,7 @@ input, select, textarea {
 		opacity: 1.0;
 	}
 
-/* Box */
+/* Box - this is where to change the settings for the white box */
 
 	.box {
 		border-radius: 4px;
